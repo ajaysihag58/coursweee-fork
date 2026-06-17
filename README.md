@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-This repository contains a Bash script that calculates simple interest using the standard formula:
+This repository contains a shell script that calculates simple interest using the standard formula:
 
 ```text
 Simple Interest = (Principal * Rate * Time) / 100
